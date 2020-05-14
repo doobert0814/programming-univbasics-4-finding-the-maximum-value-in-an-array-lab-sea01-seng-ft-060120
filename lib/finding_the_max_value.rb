@@ -1,3 +1,5 @@
 def find_max_value(array)
-  # Add your solution here
+  i = 0 
+  length = array.length()
+  while i < length do 
 end
