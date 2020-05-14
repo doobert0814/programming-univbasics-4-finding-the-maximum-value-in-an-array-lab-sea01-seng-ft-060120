@@ -3,4 +3,5 @@ def find_max_value(array)
   length = array.length()
   while i < length do 
     array.max
+  end
 end
